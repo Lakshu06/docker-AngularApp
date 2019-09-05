@@ -6,7 +6,7 @@ node version v10.16.3
 
 nginx version version: nginx/1.14.0 
 
-
+##start docker service into the project root directory
 
 ## to build docker images
 docker build -t dockerimagesname:prod .
